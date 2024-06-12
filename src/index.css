@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.logo {
+    background: linear-gradient(91deg, #EB00FF 4.53%, #001AFF 95.42%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.button-linear{
+    background: linear-gradient(135deg, #EB00FF 0%, #001AFF 89.29%);
+}
