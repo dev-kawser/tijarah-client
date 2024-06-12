@@ -47,7 +47,7 @@ const Navbar = () => {
 
                     <div className='flex items-center justify-center'>
                         <div className="flex w-[455px] mx-10 rounded">
-                            <input className="w-full bg-gray-200 rounded-md border-none px-4 text-#6D6D6D outline-none focus:outline-none" type="search" name="search" placeholder="Search for products" />
+                            <input className="w-full bg-gray-200 rounded-l-md border-none px-4 text-#6D6D6D outline-none focus:outline-none" type="search" name="search" placeholder="Search for products" />
                             <button type="submit" className="rounded-r-md button-linear px-4 py-2 text-white">
                                 Search
                             </button>
