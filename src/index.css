@@ -8,7 +8,7 @@
     font-family: "Roboto", sans-serif;
 }
 
-.logo {
+.text-linear {
     background: linear-gradient(91deg, #EB00FF 4.53%, #001AFF 95.42%);
     background-clip: text;
     -webkit-background-clip: text;
@@ -21,4 +21,8 @@
 
 .banner-linear {
     background: linear-gradient(189deg, rgba(227, 227, 227, 0.00) 13.95%, #ECECEC 100%);
+}
+
+.card-shadow{
+    box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.10);
 }

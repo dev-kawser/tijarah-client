@@ -41,7 +41,7 @@ const Navbar = () => {
                             <li><a>Item 3</a></li>
                         </ul>
                     </div>
-                    <a className="logo text-3xl font-bold">Tijarah</a>
+                    <a className="text-linear text-3xl font-bold">Tijarah</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
 
