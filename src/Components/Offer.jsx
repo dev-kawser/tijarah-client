@@ -3,7 +3,7 @@ import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 const Offer = () => {
     return (
-        <div className="mt-14">
+        <div className="mt-20">
             <div className="flex gap-4 items-center text-black">
                 <div>
                     <h2 className="text-[25px] font-semibold">
@@ -20,7 +20,7 @@ const Offer = () => {
                 </div>
             </div>
 
-            <div className=" mt-10 grid gap-5 grid-cols-4">
+            <div className=" mt-10 grid gap-8 grid-cols-4">
 
                 <div className="card bg-base-100 card-shadow">
                     <figure className="pt-3">
